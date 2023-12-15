@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NotSujanSharma
+## 👋 Hi, I’m @NotSujanSharma
 - 👀 I’m interested in Programming, Web Development and Offensive Security
 - 🌱 I’m currently learning CPP at Seneca
 - 💞️ I’m looking to collaborate on different new projects
