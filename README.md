@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on different new projects
 - 📫 How to reach me? Just mail me at sujan@brokenai.ca
 
-[default]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
+[default]: https://github-readme-stats.vercel.app/api?username=NotSujanSharma&show_icons=true&
 <div align="center">
     <a href="https://github.com/NotSujanSharma"">
-        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotSujanSharma&theme=radical&show_icons=true)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotSujanSharma&theme=radical&show_icons=true)
     </a>
     <a href="https://github.com/NotSujanSharma">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotSujanSharma&theme=radical&layout=compact" alt="Top Languages">
