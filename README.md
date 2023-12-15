@@ -6,7 +6,7 @@
 
 ## Stats
 
-![radical][radical]         ![radical][radical_repo]
+![radical][radical]  ![radical][radical_repo]
 
 
 [radical]: https://github-readme-stats.vercel.app/api?username=NotSujanSharma&show_icons=true&cache_seconds=86400&theme=radical
