@@ -10,4 +10,4 @@
 
 
 [radical]: https://github-readme-stats.vercel.app/api?username=NotSujanSharma&show_icons=true&cache_seconds=60&theme=radical
-[radical_repo]: https://github-readme-stats.vercel.app/api/top-langs?username=NotSujanSharma&cache_seconds=60&theme=radical&layout=compact
+[radical_repo]: https://github-readme-stats.vercel.app/api/top-langs?username=NotSujanSharma&cache_seconds=60&theme=radical&langs_count=8&layout=compact
