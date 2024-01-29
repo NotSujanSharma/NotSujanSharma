@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m @NotSujanSharma
-- 👀 I’m interested in Programming, Web Development and Offensive Security
-- 🌱 I’m currently learning CPP at Seneca
-- 💞️ I’m looking to collaborate on different new projects
-- 📫 How to reach me? Just mail me at sujan@brokenai.ca
+- 👀 I’m interested in Programming, Web Development and Offensive Security.
+- 🌱 I’m currently learning CPP at Seneca.
+- 💞️ I’m looking to collaborate on different new projects.
+- 📫 How to reach me? Just e-mail me at sujan@brokenai.ca.
 
 ## Stats
 
